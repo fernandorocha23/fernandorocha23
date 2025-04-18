@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @fernandorocha23
+- 👀 I’m interested in social science, humanities and coding
+- 🌱 I’m currently learning Object-Oriented Programming (Java), web technologies, and database fundamentals.
+- 📫 How to reach me https://www.linkedin.com/in/fernando-antunes-rocha/
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I have a sociology degree and I am currently in a postgraduate program in software development
