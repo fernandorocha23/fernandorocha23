@@ -6,10 +6,9 @@
 - ⚡ Fun fact: I have a sociology degree and I am currently in a postgraduate program in software development
 
 - 🛠️ Tecnologias & Ferramentas
+  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-- 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandorocha23&show_icons=true&theme=radical)
 
 - 🚀 Projetos em Destaque
   
